@@ -74,6 +74,3 @@ The system uses a **central AI controller** that orchestrates specialized compon
 User context, learning progress, and session state are preserved to ensure coherent and personalized assistance.
 
 ---
-
-## 📂 Repository Structure
-
